@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7ctp-Pbn6y3J1VwtCtsnOQ)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7ctpPbn6y3J1VwtCtsnOQ?logo=youtube&style=flat-square)
 
 <!--
 **choisungwook/choisungwook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
